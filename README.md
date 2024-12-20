@@ -9,10 +9,12 @@ pkg install git
    git clone https://github.com/zainarain279/pipeguardiannode.git
    ```
    ```bash
-   cd 
+   cd pipeguardiannode
    ```
 
 2. **Instal Requirements:**
    ```bash
    npm i
    ```
+   First register Account
+   Login Account 
